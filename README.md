@@ -1,5 +1,5 @@
 # com
-flutter application
+flutter application for beignner
 
 A new Flutter application.
 
